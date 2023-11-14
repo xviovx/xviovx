@@ -8,10 +8,13 @@ As a full-stack developer, I've honed my skills to tackle both the front and bac
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xviovx&hide=php&theme=dark)
 
 ### 2023 projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Alchemists_Arsenal&theme=dark)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=RoboPalette&theme=dark)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Nova&theme=dark)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Lingo_Labs&theme=dark)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Alchemists_Arsenal&theme=dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=RoboPalette&theme=dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Nova&theme=dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Lingo_Labs&theme=dark)
 
 ### Skills
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3, Python, C#, PHP, Kotlin
