@@ -1,4 +1,4 @@
-[![Kyle's GitHub Banner](./assets/img.png)](https://xviovx.co.za)
+<!--[![Kyle's GitHub Banner](./assets/img.png)](https://xviovx.co.za)-->
 
 **`Full Stack Developer`**
 <!--
