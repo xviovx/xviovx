@@ -1,6 +1,6 @@
 <!--[![Kyle's GitHub Banner](./assets/img.png)](https://xviovx.co.za)-->
 
-**`Full Stack Developer`**
+**`Front End Developer`**
 <!--
 I've honed my skills to tackle both the front and back ends of web applications with precision and creativity. I have a particular passion for Angular, which has empowered me to craft dynamic and responsive user interfaces that bring client-side experiences to life. My journey in tech is driven by my enthusiasm for building seamless, end-to-end solutions that push the boundaries of user engagement and performance.
 
